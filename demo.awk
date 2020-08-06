@@ -1,6 +1,6 @@
 {
   name1 = "rivu"
-  name2 = "vaishnavi"
+  name2 = "rahit"
   num1 = 10
   num2 = 20
   printf "%d + %d = %d\n",num1,num2,num1+num2
